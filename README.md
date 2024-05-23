@@ -1,7 +1,7 @@
-- 🤝 Hi, I am James Simkins. I use the pronouns He/Him.
+- 🤝 Hi, I am James Simkins. I use the pronouns he/him.
 - 🌉 I live in Pittsburgh, Pennsylvania in the United States of America.
 - 🕮 I love to learn new things! I am currently a middle school Assistant Math Teacher at Environmental Charter School in Pittsburgh and a student at Community College of Allegheny County. 
-- 👀 I am interested in information technology, computer science, networking, Linux, computer game design, global current events, history, and philosophy.
+- 👀 I am interested in information technology, computer science, networking, cybersecurity, Linux, computer game design, global current events, history, and philosophy.
 - 🌱 Right now, I am learning the Rust programming language and the Bevy game engine.
 - 🌏 I believe in peace, equality, and respect for everyone regardless of their religion, race, ethnicity, nationality, gender, sexual orientation, disability status, and other identities.
-- ☮ I particularly want to send love to the people of China, Iran, Russia, North Korea, Palestine, Cuba, Afghanistan, Belarus, and Venezuela because people in positions of power in those countries are often in disagreement or conflict with people in positions of power in my own country. I believe 99% of people in all countries simply want to live in a world of peace, equality, and mutual respect. Let's work toward that together in solidarity!
+- ☮ I particularly want to send love to the people of China, Iran, Russia, North Korea, Palestine, Cuba, Afghanistan, Belarus, and Venezuela because people in positions of power in my own country are often in disagreement or conflict with people in positions of power in those countries. I believe 99% of people in all countries simply want to live in a world of peace, equality, and mutual respect. Let's work toward that together in solidarity!
