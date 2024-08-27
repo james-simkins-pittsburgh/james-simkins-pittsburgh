@@ -1,0 +1,6 @@
+- 🤝 Hi, I am James Simkins. I use the pronouns he/him.
+- 🌉 I live in Pittsburgh, Pennsylvania in the United States of America.
+- 🕮 I love to learn new things and share that learning with others! I am a middle school Assistant Math Teacher at Environmental Charter School in Pittsburgh and a Network Support Specialist student at Community College of Allegheny County. 
+- 👀 I am interested in information technology, computer science, networking, cybersecurity, Linux, computer game design, global current events, history, and philosophy.
+- 🌱 Right now, I am learning the Rust programming language and the Bevy game engine.
+- ☮ I believe in peace, equality, and respect for everyone regardless of religion, race, ethnicity, nationality, gender, sexual orientation, disability status, and other identities. Let's work together towards a peaceful world where everyone can thrive!
